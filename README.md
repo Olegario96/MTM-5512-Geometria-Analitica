@@ -1,2 +1,4 @@
 # MTM-5512-Geometria-Analitica
-A repository with files of the course analytic geometry
+
+This repository has the tests when I was studying Analytic Geometry as well book's teacher recommendation. 
+(OBS.: We will miss Ricardo Misturini and his "reta 'r'").
